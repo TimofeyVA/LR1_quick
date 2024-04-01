@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/timofey/Рабочий стол/LR_Parallel/lr1_quick/build",
+  "command": "/usr/bin/g++  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -g -o CMakeFiles/quick.dir/main.cpp.o -c \"/home/timofey/Рабочий стол/LR_Parallel/lr1_quick/main.cpp\"",
+  "file": "/home/timofey/Рабочий стол/LR_Parallel/lr1_quick/main.cpp"
+}
+]
